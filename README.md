@@ -29,6 +29,7 @@ res://
     - gotorch.gdnlib
     - gotorch.gdns
     + win64
+      - Copy paste the build .dlls here
 
 Obviously we have yet to make gotorch.gdnlib and .gdns. They are made following other tutorials (notably https://docs.godotengine.org/en/stable/tutorials/plugins/gdnative/gdnative-cpp-example.html ) and contain the following code:
 
